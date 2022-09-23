@@ -1,7 +1,8 @@
 # FemtoShell-1stExtention-Makefile
 ## static library
 - to compile the program with static lib write the following command :
-`make prog`
+
+  `make prog`
 - to run the program write the following command :
 
   `./prog`
